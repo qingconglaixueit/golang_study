@@ -1,19 +1,15 @@
-syntax = "proto3"; // proto版本
+syntax = "proto3"
 
-package pb; // 指定包名，默认go中包名也是这个
+package pb
 
-// 定义Love服务
 service Love {
-  // 定义Confession方法
-  rpc Confession(Request) returns (Response) {}
+    rpc Confession(Request) return (Response) {}
 }
 
-// 请求
-message Request {
-  string name = 1;
+message Request{
+    string name = 1;
 }
 
-// 响应
-message Response {
-  string result = 1;
+message Response{
+    string result = 1;
 }
