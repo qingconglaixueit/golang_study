@@ -1,0 +1,7 @@
+syntax="proto3"; //版本号
+package mypro;  //包名
+
+message Info{ //消息，对应于Go的结构体
+  string cmd=1; //1:标号，唯一 即可（相当于数据库中的Id，不一定要从1 ，2的顺序依次排列。）
+  bytes jsondata=2;
+}
