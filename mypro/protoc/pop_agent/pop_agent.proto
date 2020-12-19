@@ -1,0 +1,17 @@
+syntax = "proto3"; // proto版本
+
+package pop_agent; // 指定包名，默认go中包名也是这个
+
+service PopAgent {
+  // BiStream
+  rpc BiStream(stream StreamMsg) returns (stream StreamMsg) {}
+  rpc DUpMsgSync(StreamMsg) returns (StreamMsg) {}
+}
+
+// 请求
+message StreamMsg {
+  string CmdName    = 1;
+  string Uuid       = 2;
+  string Code       = 3;
+  string content    = 4;
+}
