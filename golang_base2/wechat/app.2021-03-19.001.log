@@ -1,0 +1,267 @@
+2021-03-19 00:37:38 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 00:37:38 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /.env
+2021-03-19 00:37:38 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 00:37:38 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /.env
+2021-03-19 00:37:38 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 00:37:38 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /.env , RawQuery: 
+2021-03-19 00:37:38 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 00:37:38 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 00:37:38 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /.env                                    | 6.420306ms      
+2021-03-19 00:37:45 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 00:37:45 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 00:37:45 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  POST
+2021-03-19 00:37:45 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 00:37:45 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 00:37:45 [INFO] [/home/admin/code/golang_base2/wechat/route.go:90] Invalid Signature.
+2021-03-19 00:37:45 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | POST       | /                                        | 324.835µs       
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 2.444707ms      
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 01:42:58 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 388.721µs       
+2021-03-19 03:07:28 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 03:07:28 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /setup.cgi
+2021-03-19 03:07:28 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 03:07:28 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /setup.cgi
+2021-03-19 03:07:28 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 03:07:28 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /setup.cgi , RawQuery: 
+2021-03-19 03:07:28 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 03:07:28 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 03:07:28 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /setup.cgi                               | 533.194µs       
+2021-03-19 03:43:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 03:43:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 03:43:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 03:43:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 03:43:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 03:43:48 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 03:43:48 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 03:43:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 03:43:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 484.218µs       
+2021-03-19 05:02:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 05:02:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 05:02:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 05:02:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 05:02:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 05:02:19 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 05:02:19 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 05:02:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 05:02:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 388.655µs       
+2021-03-19 05:27:24 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 05:27:24 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 05:27:24 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 05:27:24 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 05:27:24 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 05:27:24 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 05:27:24 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 05:27:24 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 05:27:24 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 1.097226ms      
+2021-03-19 05:53:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 05:53:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 05:53:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 05:53:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 05:53:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 05:53:19 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 05:53:19 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 05:53:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 05:53:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 388.232µs       
+2021-03-19 06:52:27 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 06:52:27 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /GponForm/diag_Form
+2021-03-19 06:52:27 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  POST
+2021-03-19 06:52:27 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /GponForm/diag_Form , RawQuery: 
+2021-03-19 06:52:27 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 06:52:27 [INFO] [/home/admin/code/golang_base2/wechat/route.go:90] Invalid Signature.
+2021-03-19 06:52:27 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | POST       | /GponForm/diag_Form                      | 4.426669ms      
+2021-03-19 06:58:22 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 06:58:22 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /config/getuser
+2021-03-19 06:58:22 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 06:58:22 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /config/getuser
+2021-03-19 06:58:22 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 06:58:22 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /config/getuser , RawQuery: 
+2021-03-19 06:58:22 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 06:58:22 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 06:58:22 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /config/getuser                          | 410.423µs       
+2021-03-19 09:24:40 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 09:24:40 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /HNAP1/
+2021-03-19 09:24:40 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  POST
+2021-03-19 09:24:40 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /HNAP1/ , RawQuery: 
+2021-03-19 09:24:40 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 09:24:40 [INFO] [/home/admin/code/golang_base2/wechat/route.go:90] Invalid Signature.
+2021-03-19 09:24:40 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | POST       | /HNAP1/                                  | 184.670478ms    
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 84.422719ms     
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 10:55:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 38.781298ms     
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 173.786107ms    
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 13:01:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 137.018509ms    
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /config/getuser
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /config/getuser
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /config/getuser , RawQuery: 
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 16:03:07 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 16:03:06 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 16:03:07 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 670.015916ms    
+2021-03-19 16:03:07 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /config/getuser                          | 1.728873676s    
+2021-03-19 16:32:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 16:33:20 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 16:34:29 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 16:43:23 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 16:47:56 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 18:04:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 22:07:49 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 8.2599ms        
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 305.369µs       
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 284.873µs       
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  POST
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:90] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | POST       | /                                        | 2.67776ms       
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 845.196µs       
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /.env
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /.env
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /.env , RawQuery: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /.env                                    | 260.442µs       
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 5h39m45.312912354s
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /ueditor/ueditor.config.js/x.php
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  POST
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /ueditor/ueditor.config.js/x.php , RawQuery: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:90] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | POST       | /ueditor/ueditor.config.js/x.php         | 1.019488ms      
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  POST
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:90] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | POST       | /                                        | 205.115µs       
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /.env
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /.env
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /.env , RawQuery: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /.env                                    | 55.010966ms     
+2021-03-19 22:07:49 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 22:07:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 34.650385ms     
+2021-03-19 22:45:13 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:45:13 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:45:14 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 22:45:14 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /
+2021-03-19 22:45:15 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 22:45:16 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-19 22:45:16 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 22:45:17 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 22:45:17 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /                                        | 5.227490886s    
+2021-03-19 23:09:34 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 23:09:36 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /boaform/admin/formLogin
+2021-03-19 23:09:37 [INFO] [/home/admin/code/golang_base2/wechat/route.go:35] webController.Pattern  ==  ^/
+2021-03-19 23:09:39 [INFO] [/home/admin/code/golang_base2/wechat/route.go:36] r.URL.Path  ==  /boaform/admin/formLogin
+2021-03-19 23:09:41 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Method  ==  GET
+2021-03-19 23:09:42 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /boaform/admin/formLogin , RawQuery: 
+2021-03-19 23:09:45 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-19 23:09:46 [INFO] [/home/admin/code/golang_base2/wechat/route.go:69] Invalid Signature.
+2021-03-19 23:09:47 [INFO] [/home/admin/code/golang_base2/wechat/route.go:46] [ACCESS] | GET        | /boaform/admin/formLogin                 | 14.375569519s   

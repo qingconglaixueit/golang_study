@@ -1,0 +1,158 @@
+2021-03-07 16:35:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:35:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:35:44 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:35:44 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:35:44 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:35:44 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:49:09 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:49:09 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:49:09 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:49:09 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:49:09 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:50:42 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:50:42 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:50:42 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:50:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:50:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:50:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:50:53 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:50:53 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:50:53 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:51:21 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:51:21 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:51:21 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:51:21 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:51:22 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:38] File is too large
+2021-03-07 16:51:22 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:58:13 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:58:13 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] error of open video: open ./videos/1bb5ff84-2e69-481f-b768-5c4fe388021b: The system cannot find the file specified.
+2021-03-07 16:58:13 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:58:57 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:58:57 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:59:40 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:59:40 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:59:40 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:59:40 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 16:59:40 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 16:59:40 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:04:15 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:04:15 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:04:15 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:04:15 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:04:50 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:05:00 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:05:00 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:05:00 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:05:00 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:05:00 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:05:00 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:05:00 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x12056b00}
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x12056dc0}
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x1210c6e0}
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x1210c9a0}
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:06:43 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:07:11 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:07:11 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:07:11 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x12188160}
+2021-03-07 17:07:18 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:07:18 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:07:18 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x12188420}
+2021-03-07 17:07:26 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:07:26 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:07:26 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:07:26 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:07:38 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:07:38 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:07:38 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x1210cdc0}
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x12056b00}
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x12056dc0}
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x120926e0}
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:08:07 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:08:49 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:08:49 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  61684cef-928b-4289-bff9-2aec7707f4e7
+2021-03-07 17:08:49 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x120571e0}
+2021-03-07 17:08:49 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:08:49 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:15:27 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:15:27 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  d3425df8-3378-43d1-9ac6-b77b29c82c08
+2021-03-07 17:15:27 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  <nil>
+2021-03-07 17:15:27 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:27] error of open video: open ./videos/d3425df8-3378-43d1-9ac6-b77b29c82c08: The system cannot find the file specified.
+2021-03-07 17:15:27 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:28] error of open video: open ./videos/d3425df8-3378-43d1-9ac6-b77b29c82c08: The system cannot find the file specified.
+2021-03-07 17:15:27 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:29:37 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:29:37 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  d3425df8-3378-43d1-9ac6-b77b29c82c08
+2021-03-07 17:29:37 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x11856c60}
+2021-03-07 17:29:37 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:29:37 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 17:29:37 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 17:29:37 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  d3425df8-3378-43d1-9ac6-b77b29c82c08
+2021-03-07 17:29:37 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x1188e580}
+2021-03-07 17:29:37 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 17:29:37 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 20:53:55 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 20:53:56 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  d3425df8-3378-43d1-9ac6-b77b29c82c08
+2021-03-07 20:53:56 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x11856f20}
+2021-03-07 20:53:56 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 20:53:56 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 20:53:56 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 20:53:56 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  d3425df8-3378-43d1-9ac6-b77b29c82c08
+2021-03-07 20:53:56 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x11988160}
+2021-03-07 20:53:56 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 20:53:56 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 20:54:03 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 20:54:03 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  d3425df8-3378-43d1-9ac6-b77b29c82c08
+2021-03-07 20:54:03 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x11988420}
+2021-03-07 20:54:03 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 20:54:03 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 21:29:46 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 21:29:46 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  d3425df8-3378-43d1-9ac6-b77b29c82c08
+2021-03-07 21:29:46 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x11cb4f20}
+2021-03-07 21:29:46 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 21:29:46 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1
+2021-03-07 21:29:46 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:23] Successfully got connection
+2021-03-07 21:29:46 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:22] vid  d3425df8-3378-43d1-9ac6-b77b29c82c08
+2021-03-07 21:29:46 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:25] video  &{0x11cb51e0}
+2021-03-07 21:29:46 [INFO] [F:/newCode/golang_study/video_server/streamserver/handlers.go:35] over 
+2021-03-07 21:29:46 [INFO] [F:/newCode/golang_study/video_server/streamserver/limiter.go:29] New connection coming: 1

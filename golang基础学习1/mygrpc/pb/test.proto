@@ -1,0 +1,15 @@
+syntax = "proto3"
+
+package pb
+
+service Love {
+    rpc Confession(Request) return (Response) {}
+}
+
+message Request{
+    string name = 1;
+}
+
+message Response{
+    string result = 1;
+}

@@ -1,0 +1,550 @@
+2021-03-07 16:19:18 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:19:18 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:28] cname ==  
+2021-03-07 16:19:18 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:29] sid ==  
+2021-03-07 16:19:18 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:19:18 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/ need time:2ms
+
+
+2021-03-07 16:19:18 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:19:18 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:75] apiHandler ------------ POST
+2021-03-07 16:19:18 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/
+2021-03-07 16:19:20 [INFO] [F:/newCode/golang_study/video_server/web/client.go:29] Get "http://127.0.0.1:10000/user/": dial tcp 127.0.0.1:10000: connectex: No connection could be made because the target machine actively refused it.
+2021-03-07 16:19:20 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:19:20 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:2050ms
+
+
+2021-03-07 16:23:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:23:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:23:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/userhome need time:0ms
+
+
+2021-03-07 16:23:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:23:34 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:28] cname ==  
+2021-03-07 16:23:34 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:29] sid ==  
+2021-03-07 16:23:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:23:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/ need time:2ms
+
+
+2021-03-07 16:23:35 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:23:35 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:75] apiHandler ------------ POST
+2021-03-07 16:23:35 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/
+2021-03-07 16:23:37 [INFO] [F:/newCode/golang_study/video_server/web/client.go:29] Get "http://127.0.0.1:10000/user/": dial tcp 127.0.0.1:10000: connectex: No connection could be made because the target machine actively refused it.
+2021-03-07 16:23:37 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:23:37 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:2008ms
+
+
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:54] userHomeHandler  username ==  
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/userhome need time:2ms
+
+
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:28] cname ==  
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:29] sid ==  
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/ need time:1ms
+
+
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:25:07 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/
+2021-03-07 16:25:09 [INFO] [F:/newCode/golang_study/video_server/web/client.go:29] Get "http://127.0.0.1:10000/user/": dial tcp 127.0.0.1:10000: connectex: No connection could be made because the target machine actively refused it.
+2021-03-07 16:25:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:25:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:2011ms
+
+
+2021-03-07 16:31:18 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:31:18 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:31:18 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028
+2021-03-07 16:31:18 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:31:18 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:20ms
+
+
+2021-03-07 16:31:18 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:31:18 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:54] userHomeHandler  username ==  username=18188118028
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/userhome need time:101ms
+
+
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:11ms
+
+
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:10ms
+
+
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/9de0d31e-6bb9-490b-9092-c4055bf22e09/comments
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/9de0d31e-6bb9-490b-9092-c4055bf22e09 need time:0ms
+
+
+2021-03-07 16:31:19 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:4ms
+
+
+2021-03-07 16:33:03 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:33:03 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:33:03 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:33:03 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:33:03 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:9ms
+
+
+2021-03-07 16:33:03 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:33:04 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:33:04 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/4150c109-8d32-421c-af2b-ca481c62907e need time:716ms
+
+
+2021-03-07 16:33:05 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:33:05 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:33:05 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/4150c109-8d32-421c-af2b-ca481c62907e need time:328ms
+
+
+2021-03-07 16:33:05 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:33:06 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:33:06 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/4150c109-8d32-421c-af2b-ca481c62907e need time:250ms
+
+
+2021-03-07 16:35:32 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:35:32 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:54] userHomeHandler  username ==  username=18188118028
+2021-03-07 16:35:32 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:35:32 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/userhome need time:3ms
+
+
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:3ms
+
+
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:1ms
+
+
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/4150c109-8d32-421c-af2b-ca481c62907e/comments
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:3ms
+
+
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:35:33 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/4150c109-8d32-421c-af2b-ca481c62907e need time:0ms
+
+
+2021-03-07 16:35:43 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:35:43 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:35:43 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:35:43 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:35:43 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:6ms
+
+
+2021-03-07 16:35:43 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:35:43 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:35:43 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/dbcdbd19-077c-4cb1-a6f7-e66548336b97 need time:205ms
+
+
+2021-03-07 16:35:44 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:35:44 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:35:44 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/dbcdbd19-077c-4cb1-a6f7-e66548336b97 need time:247ms
+
+
+2021-03-07 16:35:44 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:35:44 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:35:44 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/dbcdbd19-077c-4cb1-a6f7-e66548336b97 need time:188ms
+
+
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:54] userHomeHandler  username ==  username=18188118028
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/userhome need time:1ms
+
+
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:3ms
+
+
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:2ms
+
+
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/4150c109-8d32-421c-af2b-ca481c62907e/comments
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:5ms
+
+
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:49:02 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/4150c109-8d32-421c-af2b-ca481c62907e need time:0ms
+
+
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:8ms
+
+
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/61c74479-0a36-472b-9394-66018395ec7d need time:219ms
+
+
+2021-03-07 16:49:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:49:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:49:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/61c74479-0a36-472b-9394-66018395ec7d need time:298ms
+
+
+2021-03-07 16:49:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:49:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:49:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/61c74479-0a36-472b-9394-66018395ec7d need time:190ms
+
+
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:54] userHomeHandler  username ==  username=18188118028
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/userhome need time:1ms
+
+
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:14ms
+
+
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:4ms
+
+
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/4150c109-8d32-421c-af2b-ca481c62907e/comments
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:7ms
+
+
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:29 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/4150c109-8d32-421c-af2b-ca481c62907e need time:1ms
+
+
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:8ms
+
+
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:41 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/5ba9a59e-1b86-492b-94e5-8016b5ff9ef3 need time:201ms
+
+
+2021-03-07 16:50:42 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:42 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:42 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/5ba9a59e-1b86-492b-94e5-8016b5ff9ef3 need time:223ms
+
+
+2021-03-07 16:50:43 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:43 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:43 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/5ba9a59e-1b86-492b-94e5-8016b5ff9ef3 need time:178ms
+
+
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:7ms
+
+
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:52 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/fba04769-7b40-4a95-b167-f21c3ffe68c2 need time:185ms
+
+
+2021-03-07 16:50:53 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:53 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:53 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/fba04769-7b40-4a95-b167-f21c3ffe68c2 need time:197ms
+
+
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:54] userHomeHandler  username ==  username=18188118028
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/userhome need time:5ms
+
+
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:3ms
+
+
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:5ms
+
+
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/4150c109-8d32-421c-af2b-ca481c62907e/comments
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:2ms
+
+
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:50:58 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/4150c109-8d32-421c-af2b-ca481c62907e need time:2ms
+
+
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:7ms
+
+
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:51:20 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:188ms
+
+
+2021-03-07 16:51:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:51:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:51:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:179ms
+
+
+2021-03-07 16:51:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:51:22 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:51:22 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:203ms
+
+
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:10ms
+
+
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/upload/61684cef-928b-4289-bff9-2aec7707f4e7 need time:37ms
+
+
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:54] userHomeHandler  username ==  username=18188118028
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/userhome need time:2ms
+
+
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:1ms
+
+
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:1ms
+
+
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b/comments
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:2ms
+
+
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:55:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:4ms
+
+
+2021-03-07 16:55:37 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:55:37 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:55:37 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b/comments
+2021-03-07 16:55:37 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:55:37 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:55:37 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:5ms
+
+
+2021-03-07 16:55:37 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:55:37 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:20ms
+
+
+2021-03-07 16:56:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:56:08 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:56:08 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b/comments
+2021-03-07 16:56:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:56:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:56:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:2ms
+
+
+2021-03-07 16:56:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:56:08 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:20ms
+
+
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:54] userHomeHandler  username ==  username=18188118028
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/userhome need time:5ms
+
+
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:4ms
+
+
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:7ms
+
+
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b/comments
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:2ms
+
+
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:56:31 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:0ms
+
+
+2021-03-07 16:56:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:56:34 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 16:56:34 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b/comments
+2021-03-07 16:56:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:56:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:7ms
+
+
+2021-03-07 16:56:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:56:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:56:34 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:2ms
+
+
+2021-03-07 16:56:51 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 16:56:51 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 16:56:51 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:0ms
+
+
+2021-03-07 17:00:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:00:09 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 17:00:09 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/4150c109-8d32-421c-af2b-ca481c62907e/comments
+2021-03-07 17:00:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:00:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:9ms
+
+
+2021-03-07 17:00:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:00:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:00:09 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/4150c109-8d32-421c-af2b-ca481c62907e need time:4ms
+
+
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:54] userHomeHandler  username ==  
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/userhome need time:1ms
+
+
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:28] cname ==  
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:29] sid ==  
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/ need time:0ms
+
+
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:13 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:4ms
+
+
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:20ms
+
+
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:54] userHomeHandler  username ==  username=18188118028
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/userhome need time:1ms
+
+
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:4ms
+
+
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/user/18188118028/videos
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:2ms
+
+
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b/comments
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:5ms
+
+
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:21 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:1ms
+
+
+2021-03-07 17:02:26 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:26 [INFO] [F:/newCode/golang_study/video_server/web/handlers.go:78] apiHandler ------------ POST
+2021-03-07 17:02:26 [INFO] [F:/newCode/golang_study/video_server/web/client.go:22] request: url:/api -> url:http://127.0.0.1:10000/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b/comments
+2021-03-07 17:02:26 [INFO] [F:/newCode/golang_study/video_server/web/main.go:18] ServeHTTP =========
+2021-03-07 17:02:26 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:26 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:GET, url:/videos/1bb5ff84-2e69-481f-b768-5c4fe388021b need time:0ms
+
+
+2021-03-07 17:02:26 [INFO] [F:/newCode/golang_study/video_server/web/main.go:20] ServeHTTP =========
+2021-03-07 17:02:26 [INFO] [F:/newCode/golang_study/video_server/web/main.go:22] Method:POST, url:/api need time:4ms
+
+

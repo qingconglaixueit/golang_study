@@ -1,0 +1,8 @@
+syntax="proto3"; //版本号
+package myurl;  //包名
+message UrlType{
+    string AccountId    =   1;
+    string Name =   2;
+    string Des  =   3;
+    string keywords =   4;
+}

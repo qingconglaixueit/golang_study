@@ -1,0 +1,191 @@
+2021-03-13 22:28:02 [INFO] [/home/admin/code/golang_base2/wechat/main.go:24]  ------------ start  main ------------
+2021-03-13 22:28:02 [INFO] [/home/admin/code/golang_base2/wechat/main.go:34] Listen: 80
+2021-03-13 22:28:37 [INFO] [/home/admin/code/golang_base2/wechat/route.go:34] ==================
+2021-03-13 22:28:37 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Pattern  ==  ^/
+2021-03-13 22:28:37 [INFO] [/home/admin/code/golang_base2/wechat/route.go:39] r.URL.Path  ==  /
+2021-03-13 22:28:37 [INFO] [/home/admin/code/golang_base2/wechat/route.go:41] webController.Method  ==  POST
+2021-03-13 22:28:37 [INFO] [/home/admin/code/golang_base2/wechat/route.go:91] ppppppppppp
+2021-03-13 22:28:37 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:28:37 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 3637e56d9f8b90845e12d3b4d09e19eef34f0732
+2021-03-13 22:28:37 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:【收到不支持的消息类型，暂无法显示】 CreateTime:1615645717 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130483606760726 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:28:37 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:28:37 [INFO] [/home/admin/code/golang_base2/wechat/route.go:49] [ACCESS] | POST       | /                                        | 2.062371ms       | %!s(MISSING) | %!s(MISSING) |
+2021-03-13 22:28:43 [INFO] [/home/admin/code/golang_base2/wechat/route.go:34] ==================
+2021-03-13 22:28:43 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Pattern  ==  ^/
+2021-03-13 22:28:43 [INFO] [/home/admin/code/golang_base2/wechat/route.go:39] r.URL.Path  ==  /
+2021-03-13 22:28:43 [INFO] [/home/admin/code/golang_base2/wechat/route.go:41] webController.Method  ==  POST
+2021-03-13 22:28:43 [INFO] [/home/admin/code/golang_base2/wechat/route.go:91] ppppppppppp
+2021-03-13 22:28:43 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:28:43 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 7cde5f24e34f9e2578f25338dc6ad630813b93b7
+2021-03-13 22:28:43 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:【收到不支持的消息类型，暂无法显示】 CreateTime:1615645723 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130483318669359 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:28:43 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:28:43 [INFO] [/home/admin/code/golang_base2/wechat/route.go:49] [ACCESS] | POST       | /                                        | 1.613943ms       | %!s(MISSING) | %!s(MISSING) |
+2021-03-13 22:31:40 [INFO] [/home/admin/code/golang_base2/wechat/main.go:24]  ------------ start  main ------------
+2021-03-13 22:31:40 [INFO] [/home/admin/code/golang_base2/wechat/main.go:34] Listen: 80
+2021-03-13 22:31:49 [INFO] [/home/admin/code/golang_base2/wechat/route.go:34] ==================
+2021-03-13 22:31:49 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] webController.Pattern  ==  ^/
+2021-03-13 22:31:49 [INFO] [/home/admin/code/golang_base2/wechat/route.go:39] r.URL.Path  ==  /
+2021-03-13 22:31:49 [INFO] [/home/admin/code/golang_base2/wechat/route.go:41] webController.Method  ==  POST
+2021-03-13 22:31:49 [INFO] [/home/admin/code/golang_base2/wechat/route.go:91] ppppppppppp
+2021-03-13 22:31:49 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:31:49 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 85ffdd1072a62680dc15db8abf500e25ba236d1b
+2021-03-13 22:31:49 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:😂 CreateTime:1615645909 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130489836705084 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:31:49 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:31:49 [INFO] [/home/admin/code/golang_base2/wechat/route.go:49] [ACCESS] | POST       | /                                        | 1.120972ms       | %!s(MISSING) | %!s(MISSING) |
+2021-03-13 22:33:42 [INFO] [/home/admin/code/golang_base2/wechat/main.go:24]  ------------ start  main ------------
+2021-03-13 22:33:42 [INFO] [/home/admin/code/golang_base2/wechat/main.go:34] Listen: 80
+2021-03-13 22:33:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 22:33:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 22:33:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 22:33:48 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:33:48 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 1b5892e23f3fde5098d979d91eec55dc5b27bd35
+2021-03-13 22:33:48 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:【收到不支持的消息类型，暂无法显示】 CreateTime:1615646028 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130490014709722 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:33:48 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:33:48 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 1.035181ms      
+2021-03-13 22:33:54 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 22:33:54 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 22:33:54 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 22:33:54 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:33:54 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 56ad05aaad1649c0312f9c0eb9e9f9677d26fee0
+2021-03-13 22:33:54 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:[Smirk] CreateTime:1615646034 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130486551946181 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:33:54 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:33:54 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 987.189µs       
+2021-03-13 22:34:01 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 22:34:01 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 22:34:01 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 22:34:01 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:34:01 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: a077a7ea0d2faedb5524af3c2515fc3eeb806804
+2021-03-13 22:34:01 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:[Party] CreateTime:1615646040 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130486537484371 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:34:01 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:34:01 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 1.295705ms      
+2021-03-13 22:34:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 22:34:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 22:34:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 22:34:04 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:34:04 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 0a2406853f073eaa7e6b5a2f4b7ae005d03d84f7
+2021-03-13 22:34:04 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:/::< CreateTime:1615646044 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130487190253686 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:34:04 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:34:04 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 958.175µs       
+2021-03-13 22:34:08 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 22:34:08 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 22:34:08 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 22:34:08 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:34:08 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: eeb17df91c7f9ad740e0dc9ad56ea6c6d20d6978
+2021-03-13 22:34:08 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:/::< CreateTime:1615646048 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130486565004594 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:34:08 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:34:08 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 930.334µs       
+2021-03-13 22:34:12 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 22:34:12 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 22:34:12 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 22:34:12 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:34:12 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 1fdf4955b7e04e28310567136b93512510340f72
+2021-03-13 22:34:12 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:[Party] CreateTime:1615646051 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130489987618211 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:34:12 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:34:12 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 949.308µs       
+2021-03-13 22:34:54 [INFO] [/home/admin/code/golang_base2/wechat/main.go:24]  ------------ start  main ------------
+2021-03-13 22:34:54 [INFO] [/home/admin/code/golang_base2/wechat/main.go:34] Listen: 80
+2021-03-13 22:42:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 22:42:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 22:42:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 22:42:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:42:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 5941ae09eab085c9679c41d5502a9d85081cd711
+2021-03-13 22:42:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:/:shit/:shit CreateTime:1615646570 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130499049098852 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:42:50 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:42:50 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 4.104662ms      
+2021-03-13 22:42:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 22:42:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 22:42:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 22:42:55 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:42:55 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 8438de57049fb7d51511b310f72214c0f52d25af
+2021-03-13 22:42:55 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:/:heart CreateTime:1615646575 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130497338439267 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:42:55 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:42:55 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 374.263µs       
+2021-03-13 22:43:01 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 22:43:01 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 22:43:01 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 22:43:01 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:43:01 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 3a2f29aa5ed29b1aaef87c210ffdc4295f0d9fe5
+2021-03-13 22:43:01 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:/:rose CreateTime:1615646581 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130497608279653 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:43:01 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:43:01 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 330.959µs       
+2021-03-13 22:43:05 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 22:43:05 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 22:43:05 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 22:43:05 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 22:43:05 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 5045f725fe2c344f0e33f6cb7eddac5bbcd21b0d
+2021-03-13 22:43:05 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:/:pig CreateTime:1615646585 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130495503528531 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 22:43:05 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 22:43:05 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 348.96µs        
+2021-03-13 23:08:31 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 23:08:31 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 23:08:31 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 23:08:31 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 23:08:31 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: b0c6ce3f05019f49022b9c265c94cad9df8b4bd3
+2021-03-13 23:08:31 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:你的名字 CreateTime:1615648111 FromUserName:oVeqB5xmTXrFsbA6aSA028TqApoI MsgId:23130520527229300 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 23:08:31 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 23:08:31 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 294.346µs       
+2021-03-13 23:08:44 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 23:08:44 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 23:08:44 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 23:08:44 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 23:08:44 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: a6dc84c5a31fd56e590a0995bf2f1ebc8679bbe2
+2021-03-13 23:08:44 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:音乐 CreateTime:1615648124 FromUserName:oVeqB5xmTXrFsbA6aSA028TqApoI MsgId:23130517074712161 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 23:08:44 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 23:08:44 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 358.336µs       
+2021-03-13 23:21:11 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 23:21:11 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 23:21:11 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 23:21:11 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 23:21:11 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 723c62423bdde705a08177341ce6501c1ae2946c
+2021-03-13 23:21:11 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:/:bome CreateTime:1615648871 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130530962409468 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 23:21:11 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 23:21:11 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 285.583µs       
+2021-03-13 23:21:17 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 23:21:17 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 23:21:17 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 23:21:17 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 23:21:17 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 9c1c1949f0b31ae0033a76b3a4e3810e35608298
+2021-03-13 23:21:17 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:/:bome CreateTime:1615648877 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130531301419335 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 23:21:17 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 23:21:17 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 312.435µs       
+2021-03-13 23:21:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 23:21:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 23:21:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 23:21:19 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 23:21:19 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 29ecb908e889cce0c631bacb880d0a08e08c0140
+2021-03-13 23:21:19 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:/:bome CreateTime:1615648879 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130530982336433 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 23:21:19 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 23:21:19 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 306.38µs        
+2021-03-13 23:21:21 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 23:21:21 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 23:21:21 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 23:21:21 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 23:21:21 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: d2952eaec0f5700bb02f10f589b9ed0f77d40827
+2021-03-13 23:21:21 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:/:bome CreateTime:1615648881 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130531800804370 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 23:21:21 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 23:21:21 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 348.055µs       
+2021-03-13 23:21:34 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 23:21:34 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 23:21:34 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 23:21:34 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 23:21:34 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: b7fc16461fdb6bff63200fdd194231167e57e734
+2021-03-13 23:21:34 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[Content:[Hurt] CreateTime:1615648894 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w MsgId:23130533381887643 MsgType:text ToUserName:gh_773636de8608]
+2021-03-13 23:21:34 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:253]  text 消息类型
+2021-03-13 23:21:34 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 322.72µs        
+2021-03-13 23:21:43 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 23:21:43 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /
+2021-03-13 23:21:43 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  POST
+2021-03-13 23:21:43 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: / , RawQuery: 
+2021-03-13 23:21:43 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 46539cd426d023ca94c62774db02f59661ebf484
+2021-03-13 23:21:43 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:107] map[CreateTime:1615648903 FromUserName:oVeqB5-3ty9uWhTSrcHUEnAOXk3w Label:黄埔区骏业路 Location_X:23.135420 Location_Y:113.530746 MsgId:23130530913735308 MsgType:location Scale:15 ToUserName:gh_773636de8608]
+2021-03-13 23:21:43 [WARN] [/home/admin/code/golang_base2/wechat/wx/wx.go:262] 其他的消息类型
+2021-03-13 23:21:43 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | POST       | /                                        | 331.793µs       
+2021-03-13 23:46:47 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 23:46:47 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /boaform/admin/formLogin
+2021-03-13 23:46:47 [INFO] [/home/admin/code/golang_base2/wechat/route.go:37] webController.Pattern  ==  ^/
+2021-03-13 23:46:47 [INFO] [/home/admin/code/golang_base2/wechat/route.go:38] r.URL.Path  ==  /boaform/admin/formLogin
+2021-03-13 23:46:47 [INFO] [/home/admin/code/golang_base2/wechat/route.go:40] webController.Method  ==  GET
+2021-03-13 23:46:47 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:55] URL: /boaform/admin/formLogin , RawQuery: 
+2021-03-13 23:46:47 [INFO] [/home/admin/code/golang_base2/wechat/wx/wx.go:44] Signature: 
+2021-03-13 23:46:47 [INFO] [/home/admin/code/golang_base2/wechat/route.go:71] Invalid Signature.
+2021-03-13 23:46:47 [INFO] [/home/admin/code/golang_base2/wechat/route.go:48] [ACCESS] | GET        | /boaform/admin/formLogin                 | 252.424µs       
