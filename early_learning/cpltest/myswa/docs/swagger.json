@@ -1,0 +1,53 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "参加更文挑战第 26 天了，主题是 Swagger",
+        "title": "Xiaomotong Swagger  API",
+        "termsOfService": "https://juejin.cn/user/3465271329953806",
+        "contact": {
+            "name": "https://juejin.cn/user/3465271329953806",
+            "url": "https://juejin.cn/user/3465271329953806",
+            "email": "xxx@xxx.com.cn"
+        },
+        "version": "1.0"
+    },
+    "host": "127.0.0.1:8888",
+    "basePath": "/api/v1",
+    "paths": {
+        "/hello": {
+            "get": {
+                "description": "对谁说 hello wrold",
+                "consumes": [
+                    "application/json"
+                ],
+                "tags": [
+                    "挑战测试"
+                ],
+                "summary": "hello world",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "具体名字",
+                        "name": "name",
+                        "in": "query",
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "{\"msg\": \"hello xxx\"}",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    "400": {
+                        "description": "{\"msg\": \"NO name\"}",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

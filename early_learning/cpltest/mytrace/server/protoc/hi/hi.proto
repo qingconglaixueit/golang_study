@@ -1,0 +1,21 @@
+syntax = "proto3"; // 指定proto版本
+package hi;     // 指定默认包名
+
+// 指定golang包名
+option go_package = "hi";
+
+// 定义Hi服务
+service Hi {
+// 定义SayHi方法
+rpc SayHi(HiRequest) returns (HiResponse) {}
+}
+
+// HiRequest 请求结构
+message HiRequest {
+string name = 1;
+}
+
+// HiResponse 响应结构
+message HiResponse {
+string message = 1;
+}

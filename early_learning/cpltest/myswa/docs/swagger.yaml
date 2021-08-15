@@ -1,0 +1,36 @@
+basePath: /api/v1
+host: 127.0.0.1:8888
+info:
+  contact:
+    email: xxx@xxx.com.cn
+    name: https://juejin.cn/user/3465271329953806
+    url: https://juejin.cn/user/3465271329953806
+  description: 参加更文挑战第 26 天了，主题是 Swagger
+  termsOfService: https://juejin.cn/user/3465271329953806
+  title: Xiaomotong Swagger  API
+  version: "1.0"
+paths:
+  /hello:
+    get:
+      consumes:
+      - application/json
+      description: 对谁说 hello wrold
+      parameters:
+      - description: 具体名字
+        in: query
+        name: name
+        required: true
+        type: string
+      responses:
+        "200":
+          description: '{"msg": "hello xxx"}'
+          schema:
+            type: string
+        "400":
+          description: '{"msg": "NO name"}'
+          schema:
+            type: string
+      summary: hello world
+      tags:
+      - 挑战测试
+swagger: "2.0"

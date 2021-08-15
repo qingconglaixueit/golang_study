@@ -1,0 +1,29 @@
+syntax = "proto3"; // 指定proto版本
+package hi;     // 指定默认包名
+
+// 指定golang包名
+option go_package = "hi";
+
+import "google/api/annotations.proto";
+
+// 定义Hi服务
+service Hi {
+// 定义SayHi方法
+rpc SayHi(HiRequest) returns (HiResponse) {
+        // http option
+        option (google.api.http) = {
+            post: "/v1/hi"
+            body: "*"
+        };
+    }
+}
+
+// 请求结构
+message HiRequest {
+string name = 1;
+}
+
+// 响应结构
+message HiResponse {
+string message = 1;
+}
